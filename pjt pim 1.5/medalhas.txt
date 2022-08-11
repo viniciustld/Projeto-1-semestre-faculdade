@@ -1,0 +1,3 @@
+Cadastro Efetuado em : Fri Nov 26 15:12:48 2021
+Pais/Atleta                    Ouro                           Prata                          Bronze                        
+professor                      10                             5                              1                             
